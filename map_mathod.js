@@ -13,7 +13,7 @@ let arr = ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQO2ga7Jsm-61
 
     let output=document.querySelector('#answer');
 
-    output.innerHTML =arr.map((imgurl)=>`
+    output.innerHTML = arr.map((imgurl)=>`
     <img style="width:300px;height:300px; margin:100px 0 0 0px; " src="${imgurl}" alt="not find">`).join(" ")
 }
 
