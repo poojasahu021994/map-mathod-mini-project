@@ -1,9 +1,16 @@
-// let arr=[45,85,74,21,63];
-// let newarr = arr.map((items) =>{return items*2});
-// console.log(newarr);
+let arr=[45,85,74,21,63];
+let newarr = arr.map((items) =>{
+    return items*2
+});
+console.log(newarr);
 
-// let ansarr = arr.map((items) =>{return items+10});
-// console.log(ansarr);
+let ansarr = arr.map((items) =>{0
+    return items+10
+});
+console.log(ansarr);
+
+
+
 
 function run(){
 let arr = ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQO2ga7Jsm-619O8lg9wp5S0uZtqppyDakw&s' ,
@@ -19,6 +26,20 @@ let arr = ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQO2ga7Jsm-61
 
 
 
+
+
+
+let members=["pooja","sahu","asd","raaz"];
+members.push("gourik","sharad","vinod");
+console.log(members);
+members.pop()
+console.log(members)
+members.toString()
+console.log(members)
+
+
+
+let arr2=[45,85,74,21,63,21];
 
 
 
