@@ -41,6 +41,32 @@ console.log(members)
 
 let arr2=[45,85,74,21,63,21];
 
+// let output2=Math.ceil(ans)
+// let output1=str.charCodeAt(ans);
+// console.log(output);
+// console.log(output1);
+// console.log(output2);
+
+
+let a =Math.PI;
+console.log(a);
+
+let b=Math.SQRT2;
+console.log(b);
+
+let c= 56.7;
+console.log(Math.floor(c));
+console.log(Math.round(c));
+console.log(Math.ceil(c));
+console.log(Math.trunc(c));
+console.log(Math.abs(c));
+console.log(Math.pow(5,2));
+console.log(Math.random());
+
+
+
+
+
 
 
 
